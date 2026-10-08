@@ -5,7 +5,6 @@
 **Full-stack developer · I build role-based web platforms, search & NLP tools, and the occasional programming language.**
 
 [![GitHub followers](https://img.shields.io/github/followers/mani6409?label=Follow&style=social)](https://github.com/mani6409)
-![Profile views](https://komarev.com/ghpvc/?username=mani6409&color=4a55e8&style=flat-square&label=Profile+views)
 
 </div>
 
